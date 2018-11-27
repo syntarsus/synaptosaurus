@@ -1,0 +1,25 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Synaptosaurus
+paginate:            1
+baseurl:             ""
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+author:
+  name:              Ryan Nevius
+  url:               https://ryannevius.com
+
+# Custom variables
+version:             0.1.0
+github:
+  repo:              https://github.com/syntarsus/synaptosaurus
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
